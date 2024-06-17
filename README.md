@@ -1,5 +1,11 @@
 ## Olá 👋
-
+- Nome: Gabriel Ribeiro
+- Localização: Alfenas
+- Idade: 19
+- Pronomes: Ele
+- Cursando: Ciência da Computação
+- Faculdade: Unifal
+- 
 <!--
 **GabrielRibeiro172005/GabrielRibeiro172005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
